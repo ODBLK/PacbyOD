@@ -23,6 +23,7 @@ var rules = [
 	"||trackercdn.com",
 	"||steam-chat.com",
 	"||*steam*",
+	"||unrealengine.com",
 	"||braytech.org",
 	"||steamuserimages-a.akamaihd.net",
 	"||fevgames.net",
