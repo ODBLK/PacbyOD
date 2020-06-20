@@ -19,6 +19,7 @@ var rules = [
 	"||ingress.com",
 	"||guardian.gg",
 	"||torlock.com",
+	"||herokuapp.com",
 	"||0mag.net",
 	"||vendorengrams.xyz",
 	"||tracker.gg",
