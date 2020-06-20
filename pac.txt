@@ -20,6 +20,7 @@ var rules = [
 	"||guardian.gg",
 	"||torlock.com",
 	"||0mag.net",
+	"||vendorengrams.xyz",
 	"||tracker.gg",
 	"||trackercdn.com",
 	"||steam-chat.com",
