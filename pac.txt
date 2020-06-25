@@ -27,6 +27,8 @@ var rules = [
 	"||steam-chat.com",
 	"||*steam*",
 	"||unrealengine.com",
+	"||http://fulibus.net/",
+	"||wnflb66.com",
 	"||braytech.org",
 	"||steamuserimages-a.akamaihd.net",
 	"||fevgames.net",
