@@ -32,6 +32,7 @@ var rules = [
 	"||braytech.org",
 	"||steamuserimages-a.akamaihd.net",
 	"||fevgames.net",
+	"||trustedsite.com",
 	"||opfans.org",
 	"||github.io",
 	"||nflxvideo.net",
